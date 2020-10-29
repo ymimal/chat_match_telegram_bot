@@ -7,5 +7,5 @@ JSON_AS_ASCII           = False
 TEMPLATES_AUTO_RELOAD   = True
 
 # 設置 bot_poc.config
-BOT_API_KEY             = "1234567890:ABCDEFGHIJKKKKKKKKKK"
-BOT_HOOK_URL            = "https://Domainnnnnnnnnnnnn/hook"
+BOT_API_KEY             = "1219241191:AAHG0WNoXkCWVClJcuqW1WdF1OnZa_hzKKo"
+BOT_HOOK_URL            = "https://bbyboo.herokuapp.com/hook"
